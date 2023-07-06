@@ -1,5 +1,5 @@
 # cursoBigData.MachineLearning
-Día 1 03/07/2023
+Día 03/07/2023
 
 Cristina M5 -  01 Python Notebook: Repaso variables, operadores, listas, condicionales, cadenas, crear funciones, diccionarios.
 
