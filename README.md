@@ -23,8 +23,8 @@ Cristina M5 - Librería Folium (mapas en base a datos de geoespaciales, localiza
 
 Cristina M5 - Libreria Prophet (predición basada en un modelo predictivo de regresión lineal, librería nueva, pasos para entrenar un modelo)
 
-Día 3 06/07/2023
+Día 4 06/07/2023
 
-Cristina M5 - SPACEX2 - 6 - Machine Learning Predicciones
+Cristina M5 - SPACEX2 - 6 - Machine Learning Predicciones (crear modelos predictivos de Clasificación como regresion logística, SVM, Decision Tree Classifier, KKN para entrenarlos y elegir el qué mejor resultado nos dé)
 
-Cristina M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium
+Cristina M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium (trabajar con esta librería de datos geoespaciales para crear mapas y seguir realizando funciones en dataframes)
