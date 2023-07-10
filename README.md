@@ -28,3 +28,7 @@ Día 4 06/07/2023
 Cristina M5 - SPACEX2 - 6 - Machine Learning Predicciones (crear modelos predictivos de Clasificación como regresion logística, SVM, Decision Tree Classifier, KKN para entrenarlos y elegir el qué mejor resultado nos dé)
 
 Cristina M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium (trabajar con esta librería de datos geoespaciales para crear mapas y seguir realizando funciones en dataframes)
+
+Día 5 07/07/2023
+
+Cristina M5 - SPACEX2 - 
