@@ -31,4 +31,6 @@ Cristina M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium (trabajar co
 
 Día 5 07/07/2023
 
-Cristina M5 - SPACEX2 - 
+Cristina - SPACEX2 - 5 - Interactive Visual Analytics con Folium (trabajar con esta librería de datos geoespaciales para crear mapas y seguir realizando funciones en dataframes)
+
+Cristina Repaso Teoría - Curso Actualízate M5.docx (repaso de conceptos y explicaciones clave del temario Machine Learning)
