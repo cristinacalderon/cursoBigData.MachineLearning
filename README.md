@@ -34,3 +34,9 @@ Día 5 07/07/2023
 Cristina - SPACEX2 - 5 - Interactive Visual Analytics con Folium (trabajar con esta librería de datos geoespaciales para crear mapas y seguir realizando funciones en dataframes)
 
 Cristina Repaso Teoría - Curso Actualízate M5.docx (repaso de conceptos y explicaciones clave del temario Machine Learning)
+
+Día 6 - Día 1 Arquitectura Data 10/07/2023
+
+Cristina 01 Funciones (Funciones, paradigmas, párametros con valores por defecto, documentación, variables globales, etc.)
+
+Cristina 02 Clases (Crear funciones dentro de una clase)
