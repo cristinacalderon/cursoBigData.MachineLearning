@@ -40,3 +40,7 @@ Día 6 - Día 1 Arquitectura Data 10/07/2023
 Cristina 01 Funciones (Funciones, paradigmas, párametros con valores por defecto, documentación, variables globales, etc.)
 
 Cristina 02 Clases (Crear funciones dentro de una clase)
+
+Día 7 - Día 2 Arquitectura Data 11/07/2023
+
+Cristina M6 04 Programación funcional (Funciones lambda, map, filter y reduce con sus respectivos ejercicios).
