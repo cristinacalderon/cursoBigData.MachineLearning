@@ -44,3 +44,11 @@ Cristina 02 Clases (Crear funciones dentro de una clase)
 Día 7 - Día 2 Arquitectura Data 11/07/2023
 
 Cristina M6 04 Programación funcional (Funciones lambda, map, filter y reduce con sus respectivos ejercicios).
+
+Día 8 - Día 2 Arquitectura Data 12/07/2023
+
+Cristina M6 - 02 - SparkSession Teoría
+
+Cristina M6 - 03 - Primer RDD Teoría
+
+Cristina M6 - 04 - Programación Funcional (transformaciones y acciones)
