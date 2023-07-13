@@ -47,8 +47,8 @@ Cristina M6 04 Programación funcional (Funciones lambda, map, filter y reduce c
 
 Día 8 - Día 2 Arquitectura Data 12/07/2023
 
-Cristina M6 - 02 - SparkSession Teoría
+Cristina M6 - 02 - SparkSession Teoría (Qué es Spark, sesiones, contexto y cierre)
 
-Cristina M6 - 03 - Primer RDD Teoría
+Cristina M6 - 03 - Primer RDD Teoría (Explicación RDD, como trabajar en Google Collaboratory, qué vemos take()).
 
-Cristina M6 - 04 - Programación Funcional (transformaciones y acciones)
+Cristina M6 - 07 - Transformaciones y Acciones sobre RDDs (map(), count(), collect(), ect.)
