@@ -45,10 +45,15 @@ Día 7 - Día 2 Arquitectura Data 11/07/2023
 
 Cristina M6 04 Programación funcional (Funciones lambda, map, filter y reduce con sus respectivos ejercicios).
 
-Día 8 - Día 2 Arquitectura Data 12/07/2023
+Día 8 - Día 3 Arquitectura Data 12/07/2023
 
 Cristina M6 - 02 - SparkSession Teoría (Qué es Spark, sesiones, contexto y cierre)
 
 Cristina M6 - 03 - Primer RDD Teoría (Explicación RDD, como trabajar en Google Collaboratory, qué vemos take()).
 
 Cristina M6 - 07 - Transformaciones y Acciones sobre RDDs (map(), count(), collect(), ect.)
+
+Día 9 - Día 4 Arquitectura Data 13/07/2023
+
+Cristina Repaso Teoría - Curso Actualízate M5 (Conceptos clave y explicación de procesos y sintaxis en Machine Learning; muy necesario para Arquitectura Data)
+
